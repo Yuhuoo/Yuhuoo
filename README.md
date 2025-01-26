@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Occupancy prediction.
-- 😄 My interests are in 3DGS, 4DGS, and differentiable rendering.
+- 😄 My interests are 3D Vision and Computer Graphics.
 
 <!--
 **Yuhuoo/Yuhuoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
