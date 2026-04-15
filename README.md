@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a first-year Ph.D. student at the School of Computer Science and Technology, East China Normal University (ECNU).
+
+😄 My research interests include:
+
+- 🌱 3D Reconstruction & Editing: [EasySplat](https://github.com/Yuhuoo/EasySplat), GSCompleter
+- ⚡ Feed-Forward Reconstruction: ScaFFSplat
